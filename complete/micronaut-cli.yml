@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: petstore
+---
+testFramework: junit
+sourceLanguage: java
